@@ -1,2 +1,2 @@
 # react-project-business-app
-This is responsive react project.
+This is responsive end to end react project.
